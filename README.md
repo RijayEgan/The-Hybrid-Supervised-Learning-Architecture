@@ -1,1 +1,1 @@
-![Pipeline diagram](hybrid-supervised-learning-architecture-pipeline.svg)
+![Pipeline diagram](hybrid-learning-pipeline.svg)
